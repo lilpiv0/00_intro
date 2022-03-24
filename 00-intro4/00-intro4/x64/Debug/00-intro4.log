@@ -1,0 +1,6 @@
+﻿  00-intro4.cpp
+C:\Users\Aboba\source\repos\00-intro4\00-intro4\00-intro4.cpp(13,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Aboba\source\repos\00-intro4\00-intro4\00-intro4.cpp(13,32): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Aboba\source\repos\00-intro4\00-intro4\00-intro4.cpp(13,59): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Aboba\source\repos\00-intro4\00-intro4\00-intro4.cpp(14,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  00-intro4.vcxproj -> C:\Users\Aboba\source\repos\00-intro4\x64\Debug\00-intro4.exe
