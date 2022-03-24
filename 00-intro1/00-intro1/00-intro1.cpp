@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	int x = 13;
+	int x = 13; //абоба
 	int y = 73;
 	cout << "X = " << x << "\n";
 	cout << "Y = " << y << "\n";
